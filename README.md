@@ -11,7 +11,7 @@
 ## I’m currently learning:
 
 <div style="display: inline_block">
-<img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+ <img align="center" src="https://img.shields.io/badge/-C Sharp-05122A?style=flat&logo=Csharp&logoColor=228B22" alt="C-sharp"/>
 </div>
 
 ## Tech Stack:
