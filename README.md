@@ -1,5 +1,5 @@
 ##
-<img height="250cm" src="https://grupoeasytech.com.br/wp-content/uploads/Artboard-1banner-blog.png"/> 
+<img height="182cm" src="https://grupoeasytech.com.br/wp-content/uploads/Artboard-1banner-blog.png"/> 
 
 
 ### Hi 👋, I'm Ivan Galdino!
