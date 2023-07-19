@@ -7,16 +7,17 @@
 ## GitHub Analytics
 
 <div>  
-<img height="195px" src="https://github-readme-stats.vercel.app/api?username=LordIPG&show_icons=true&count_private=true&hide_border=true&title_color=6A5ACD&icon_color=6A5ACD&text_color=000000&bg_color=transparent" alt="Ivan Galdino github stats" /><img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordIPG&layout=compact&hide_border=true&title_color=6A5ACD&text_color=000000&bg_color=tranparent" />
+<img height="195px" src="https://github-readme-stats.vercel.app/api?username=LordIPG&show_icons=true&count_private=true&hide_border=true&title_color=6A5ACD&icon_color=6A5ACD&text_color=000000&bg_color=transparent" alt="Ivan Galdino github stats" />
+<img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordIPG&layout=compact&hide_border=true&title_color=6A5ACD&text_color=000000&bg_color=tranparent" />
 </div>
 
-## I’m currently learning:
+## I’m currently learning
 
 <div style="display: inline_block">
  <img align="center" src="https://img.shields.io/badge/-C Sharp-4F4F4F?style=flat&logo=Csharp&logoColor=228B22" alt="C-sharp"/>
 </div>
 
-## Tech Stack:
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-4F4F4F?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-4F4F4F?style=flat&logo=HTML5)&nbsp;
