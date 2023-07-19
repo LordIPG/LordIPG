@@ -1,10 +1,12 @@
+##
+<img height="250cm" src="https://grupoeasytech.com.br/wp-content/uploads/Artboard-1banner-blog.png"/> 
+
+
 ### Hi 👋, I'm Ivan Galdino!
 ##
-
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=LordIPG&show_icons=true&theme=transparent"/> <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordIPG&show_icons=true&theme=transparent"/> 
 
 ### Studying:
-
 <div style="display: inline_block">
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
 <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -13,7 +15,6 @@
 </div>
 
 ##
-
 <div> 
   <a href="https://instagram.com/ivan_log?igshid=NGExMmI2YTkyZg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:vivamaisivangaldino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
