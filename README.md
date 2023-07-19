@@ -1,11 +1,15 @@
 ##
-<img height="182cm" src="https://grupoeasytech.com.br/wp-content/uploads/Artboard-1banner-blog.png"/> 
+<br/>
+<img height="250cm" src="https://grupoeasytech.com.br/wp-content/uploads/Artboard-1banner-blog.png"/>
 
+##
 
 ### Hi 👋, I'm Ivan Galdino!
-##
+<br/>
+
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=LordIPG&show_icons=true&theme=transparent"/> <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordIPG&show_icons=true&theme=transparent"/> 
 
+##
 ### Studying:
 <div style="display: inline_block">
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
