@@ -6,7 +6,7 @@
 
 ## GitHub Analytics
 
-<img width="430em" src="https://github-readme-stats.vercel.app/api?username=LordIPG&show_icons=true&theme=dark"/> &nbsp; <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordIPG&show_icons=true&theme=dark"/> 
+<img width="430em" src="https://github-readme-stats.vercel.app/api?username=LordIPG&show_icons=true&theme=transparent"/> &nbsp; <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordIPG&show_icons=true&theme=transparent"/> 
 
 ## I’m currently learning:
 
