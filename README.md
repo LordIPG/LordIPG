@@ -7,7 +7,7 @@
 ### Hi 👋, I'm Ivan Galdino!
 <br/>
 
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=LordIPG&show_icons=true&theme=transparent"/> <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordIPG&show_icons=true&theme=transparent"/> 
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=LordIPG&show_icons=true&theme=transparent"/> &nbsp; <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordIPG&show_icons=true&theme=transparent"/> 
 
 ##
 ### Studying:
