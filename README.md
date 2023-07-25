@@ -1,6 +1,6 @@
 ##
 
-#<img height="250em" src="https://grupoeasytech.com.br/wp-content/uploads/Artboard-1banner-blog.png"/>
+//*<img height="250em" src="https://grupoeasytech.com.br/wp-content/uploads/Artboard-1banner-blog.png"/>
 
 <h1 align="left">Hi, I'm Ivan Galdino!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LordIPGo&color=red" alt="Profile views" /> </p>
